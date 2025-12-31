@@ -1,16 +1,1 @@
-/* 🔧 force reset red debug background */
-html, body {
-  background-color: #ffffff !important;
-}
 
-.site-header,
-.header,
-.page__header,
-.navbar {
-  background-color: #ffffff !important;
-}
-
-html,
-body {
-  background-color: #ffffff !important;
-}
