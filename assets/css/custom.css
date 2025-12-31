@@ -1,5 +1,7 @@
-body {
-  background: ##ffffff !important;
+ .site-header,
+.header,
+.page__header {
+  background-color: #ffffff !important;
 }
 
 /* ================================
