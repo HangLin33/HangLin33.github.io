@@ -101,9 +101,163 @@ Supported Hong Kong IPO execution through investor analytics, market monitoring,
 
 ## 📊 Projects
 
-### Data Analytics & Machine Learning Projects
-- Applied Python and SQL for data cleaning and analysis
-- Built predictive models for economic and financial datasets
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+## Research & Behavioral Economics
+
+### **Digital Purchasing Environment, Consumption Behavior, and Consumer Well-being**  
+*Capstone Research · AEM 6991 / 6992 · Cornell University*
+
+Designed and executed a behavioral economics research project examining how digital purchasing convenience shapes impulse buying, overconsumption, and consumer well-being.
+
+- Developed a **conceptual framework** linking digital purchasing convenience, impulse buying, overconsumption, financial stress, and well-being.
+- Designed and deployed a **40-item survey** targeting U.S. young adults and constructed composite behavioral indices.
+- Applied **OLS regression models** with demographic and behavioral controls to test mediation mechanisms.
+- Conducted **bootstrap resampling (1,000 iterations)** and **LOOCV** to assess coefficient stability and robustness.
+- Documented the full analysis pipeline using **reproducible R Markdown** workflows.
+
+*Methods & Tools:* R · Regression Analysis · Survey Design · Behavioral Economics · Bootstrapping · LOOCV
+
+---
+
+## Data Mining & Machine Learning
+
+### **Forecasting New Housing Transactions in China**  
+*STSCI 5740 · Data Mining & Machine Learning*
+
+Built and evaluated machine learning models to forecast sector-level new housing transaction values using macro and real-estate-related indicators.
+
+- Integrated **5,000+ sector–month observations** combining new housing sales, pre-owned housing activity, and land transaction data.
+- Constructed an interpretable **seasonal fixed-effects regression** as a baseline model.
+- Implemented **gradient boosting regression (XGBoost)** to capture nonlinear demand–supply dynamics.
+- Evaluated model performance using **time-series cross-validation**, avoiding look-ahead bias.
+- Compared predictive accuracy using **out-of-sample RMSE** and analyzed feature importance.
+
+*Methods & Tools:* Python · XGBoost · StatsModels · Time-Series Cross-Validation · Feature Engineering
+
+---
+
+## Financial Analytics & R Programming
+
+### **ESG, Stock Performance, and Corporate Controversies: Evidence from Automakers**  
+*AEM 5850 · R Programming for Business Analytics*
+
+Conducted an end-to-end financial and ESG analysis of global automakers to evaluate performance, valuation, and reputational shocks.
+
+- Cleaned and merged **multi-source financial datasets** including stock prices, earnings, ESG scores, FX rates, and vehicle registrations.
+- Standardized international financials into **USD-adjusted metrics** and computed valuation ratios and market capitalization.
+- Analyzed the **Dieselgate shock** by comparing Volkswagen’s returns, cumulative performance, and counterfactual earnings.
+- Produced **publication-quality tables and visualizations** using tidyverse and ggplot2.
+- Delivered an **executive-style analytical report** emphasizing insights over code.
+
+*Methods & Tools:* R · tidyverse · ggplot2 · Financial Ratios · ESG Analytics · Data Visualization
+
+---
+
+## Digital Strategy & Platform Economics
+
+### **Virtual Cornell Campus Platform (VCCP)**  
+*AEM 5220 · Digital Business Strategy*
+
+Designed a VR- and AI-enabled digital platform concept to enhance university recruitment, engagement, and global accessibility.
+
+- Conceptualized a **VR-based digital campus platform** integrating LiDAR scanning, 3D modeling, and AI-guided navigation.
+- Analyzed platform strategy using **digital ecosystem and platform governance frameworks**.
+- Designed a **B2B institutional licensing revenue model** emphasizing scalability and recurring value.
+- Evaluated governance, regulatory (data privacy, accessibility), and ecosystem coordination challenges.
+- Assessed long-term strategic value for branding, international recruitment, and cross-university collaboration.
+
+*Methods & Tools:* Digital Strategy · Platform Economics · VR / AI Concepts · Business Model Design
+
+---
+
+## Financial Management & Fixed Income Analysis
+
+### **Bond Pricing, Duration, Convexity, and Interest Rate Risk**
+*Topics in Financial Management*
+
+Conducted comprehensive fixed-income valuation and risk analysis covering bond pricing, duration, convexity, and refinancing decisions.
+
+- Priced fixed-rate and zero-coupon bonds using **present value and yield-to-maturity frameworks**.
+- Calculated **Macaulay duration and modified duration** to assess interest rate sensitivity.
+- Quantified **convexity effects** and explained discrepancies between predicted and actual price changes.
+- Evaluated refinancing decisions by computing **NPV, IRR, and monthly payment savings**.
+- Analyzed forward rates and term structure to support intertemporal borrowing and investment decisions.
+
+*Methods & Tools:* Financial Mathematics · Fixed Income Analytics · NPV / IRR · Duration & Convexity
+
+---
+
+## Applied Econometrics
+
+### **Determinants of Wine Prices: Age, Origin, and Interaction Effects**
+*Applied Econometrics*
+
+Estimated and evaluated multiple regression models to explain wine price dynamics using age, country of origin, and interaction terms.
+
+- Built **OLS regression models** incorporating age, country dummies (Italy, Spain), and interaction effects.
+- Interpreted **marginal effects** of aging on prices across different producing countries.
+- Compared model specifications using **Adjusted R², AIC, and BIC** to balance fit and complexity.
+- Diagnosed econometric issues including **heteroskedasticity, multicollinearity, and autocorrelation**.
+- Proposed robustness improvements using **robust standard errors and model re-specification**.
+
+*Methods & Tools:* OLS Regression · Interaction Terms · Model Selection · Econometric Diagnostics
+
+---
+
+## Macroeconomics & Growth Theory
+
+### **Solow Growth Model and Economic Catch-Up: Evidence from India**
+*Macroeconomics*
+
+Applied the Solow growth framework to evaluate India’s long-run growth dynamics and convergence process.
+
+- Derived the **Solow model with capital accumulation, labor growth, and technological progress**.
+- Mapped macroeconomic indicators (savings, investment, capital formation, education spending) to model parameters.
+- Analyzed growth dynamics across **financial crisis (2008) and COVID-19 shock (2020)** periods.
+- Assessed the relative contributions of **capital (K), labor (N), and technology (A)** to GDP per capita growth.
+- Interpreted policy implications for labor-intensive development and technology-driven catch-up.
+
+*Methods & Tools:* Growth Theory · Macroeconomic Modeling · World Bank Data · Comparative Analysis
+
+---
+
+## Monetary Economics & Dissertation Research
+
+### **The Impact of China’s Structural Monetary Policy on Industrial Production**
+*Undergraduate Dissertation*
+
+Investigated the effectiveness of China’s structural monetary policy tools on industrial production growth using time-series econometrics.
+
+- Constructed a **VAR model** to analyze dynamic responses of industrial production to policy shocks.
+- Evaluated the impact of **price-based tools (SLF, MLF, PSL)** versus **quantity-based tools (RRR)**.
+- Identified heterogeneous short-run effects across different policy instruments.
+- Interpreted monetary transmission mechanisms affecting credit allocation and industrial output.
+- Developed policy recommendations based on empirical impulse response analysis.
+
+*Methods & Tools:* VAR Models · Time-Series Analysis · Monetary Economics · Policy Evaluation
+
+---
+
+## Qualitative Research & AI in Education
+
+### **AI Conversational Agents vs. Search Engines in Higher Education**
+*Qualitative Research Methods*
+
+Explored how AI tools such as ChatGPT support student learning compared to traditional search engines.
+
+- Designed and conducted **semi-structured interviews** with university students across disciplines and countries.
+- Compared AI-assisted learning with keyword-based search in problem-solving and conceptual understanding.
+- Identified differences in **learning efficiency, personalization, and cognitive support**.
+- Analyzed qualitative data using **thematic coding and comparative analysis**.
+- Discussed implications for **educational equity, teaching methods, and academic integrity**.
+
+*Methods & Tools:* Qualitative Interviews · Thematic Analysis · Education Technology · AI & Learning
+
 
 ---
 
