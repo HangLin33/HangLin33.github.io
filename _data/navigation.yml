@@ -1,104 +1,24 @@
 header:
   - titles:
-      # @start locale config
-      en      : &EN       Experience
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  经历
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  經歷
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       
-      ko-KR   : *KO
-      fr      : &FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       
-      # @end locale config
+      en: Experience
+      zh-Hans: 经历
+      zh-Hant: 經歷
     url: /experience/
 
   - titles:
-      # @start locale config
-      en      : &EN       CV
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  简历
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  簡歷
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       
-      ko-KR   : *KO
-      fr      : &FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       
-      # @end locale config
+      en: CV
+      zh-Hans: 简历
+      zh-Hant: 簡歷
     url: /cv/
 
-- titles:
-      # @start locale config
-      en      : &EN       Journeys
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  旅程
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  旅程
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       
-      ko-KR   : *KO
-      fr      : &FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       
-      # @end locale config
+  - titles:
+      en: Journeys
+      zh-Hans: 旅程
+      zh-Hant: 旅程
     url: /journeys/
 
-- titles:
-      # @start locale config
-      en      : &EN       Poetry
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  诗集
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  詩集
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       
-      ko-KR   : *KO
-      fr      : &FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Hakkında
-      # @end locale config
-    url: /poetry
+  - titles:
+      en: Poetry
+      zh-Hans: 诗集
+      zh-Hant: 詩集
+    url: /poetry/
