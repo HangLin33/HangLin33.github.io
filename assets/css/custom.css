@@ -1,25 +1,11 @@
-/* ===== Force neutralize red debug styles ===== */
-
-/* Header / Nav */
-.site-header,
-.page__header,
-.header,
-.navbar {
+/* 🔧 force reset red debug background */
+html, body {
   background-color: #ffffff !important;
 }
 
-/* Active / hover states */
-.site-header a,
-.site-header a:hover,
-.site-header a:focus {
-  color: #2f2f2f !important;
-  border-color: transparent !important;
-}
-
-/* General background safety */
-body,
-.page,
-.page__inner,
-.page__content {
+.site-header,
+.header,
+.page__header,
+.navbar {
   background-color: #ffffff !important;
 }
