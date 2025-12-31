@@ -49,7 +49,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       
       # @end locale config
-    url: /CV/
+    url: /cv/
 
 - titles:
       # @start locale config
