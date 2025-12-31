@@ -4,6 +4,8 @@ title: Experience
 permalink: /experience/
 ---
 
+## 💼 Internship
+
 ## Equity Capital Markets & Investment Banking
 
 ### **Equity Capital Markets Intern — CITIC Securities (IBD)**  
