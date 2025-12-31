@@ -7,7 +7,7 @@ permalink: /cv/
 ## 📄 Curriculum Vitae
 
 <iframe
-  src="/assets/cv/Hang_Lin_CV.pdf"
+  src="/assets/cv/Hang_Lin_Resume.pdf"
   width="100%"
   height="1000px"
   style="border: none;"
